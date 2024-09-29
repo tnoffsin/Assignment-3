@@ -1,3 +1,4 @@
+#This is the imported Code its broken down further into details by the other submitted input. This is just if you wanted to check the code to see if it worked. This is the document you would use to check to see if it worked. Contains the right file format.
 # Step 1: Read the CSV data
 data = """
 customer_id,customer_age,customer_income,home_ownership,employment_duration,loan_intent,loan_grade,loan_amnt,loan_int_rate,term_years,historical_default,cred_hist_length,Current_loan_status
